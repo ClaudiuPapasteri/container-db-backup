@@ -1,2 +1,2 @@
 # scripts
-▶️ Bash / PowerShell and Python scripts for various projects
+▶️ Bash / PowerShell and Python scripts for container mysql/mariadb backup 
